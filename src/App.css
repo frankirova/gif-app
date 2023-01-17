@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+#input-add-category {
+  margin-bottom: 2rem;
+  height: 2rem;
+
+  border-color: white;
+  border-radius: 5px;
+}
+
+body {
+  background: linear-gradient(
+    150deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(137, 138, 127, 1) 100%,
+    rgba(91, 92, 93, 1) 100%
+  );
+  color: white;
+}
+
+figure {
+  width: 25%;
+  height: auto;
+  object-fit: cover;
+}
+
+h3 {
+  background-color: rgb(206, 142, 58);
+}
